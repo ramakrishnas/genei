@@ -2,6 +2,7 @@
 # for previous symbols / synonymous
 # extract approved symbols and entrez Ids
 # text file with gene symbols
+# Rscript genei.R testgenes.txt
 
 args <- commandArgs(TRUE)
 print (args[1])
